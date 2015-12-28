@@ -1,3 +1,5 @@
+EDIT1: You can download the .exe version from here ( http://moovonsunny.appspot.com/projects )
+
 SPOJSCRAPPER(GUI VERSION)
 
 
